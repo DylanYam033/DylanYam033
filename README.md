@@ -1,7 +1,13 @@
 <h1 align="center">Hola 👋, Mi nombre es Dylan Yampuezan</h1>
 <h3 align="center">Soy un apasionado por la tecnología y el desarrollo de software, con un fuerte interés en el aprendizaje continuo y el trabajo en equipo.</h3>
 
+-🤝 Considero el trabajo en equipo una herramienta poderosa para aprender y conseguir objetivos en común
 - 📫 Mi correo de contacto es: **yampuezandylan04@gmail.com**
+- 🌱 Actualmente estoy aprendiendo desarrollo web del lado del Back-End
+- 👨‍💻 Mi objetivo es aprender constantemente y mejorar mis habilidades para resolver problemas y crear soluciones innovadoras en el mundo digital.
+- 📝 Durante mis estudios y proyectos, he tenido la oportunidad de trabajar en equipo con otros desarrolladores y aprender de ellos.
+- ⚡ Estoy constantemente en busca de nuevos desafíos y oportunidades de aprendizaje, lo que me permite mejorar y ampliar mis conocimientos en el campo de la tecnología.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
