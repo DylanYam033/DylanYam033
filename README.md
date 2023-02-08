@@ -5,7 +5,7 @@
 - 📫 Mi correo de contacto es: **yampuezandylan04@gmail.com**
 - 🤝 Considero el trabajo en equipo una herramienta poderosa para aprender y conseguir objetivos en común
 - 🌱 Actualmente estoy aprendiendo desarrollo web del lado del Back-End
-- 👨‍💻 Mi objetivo es aprender constantemente y mejorar mis habilidades para resolver problemas y crear soluciones innovadoras en el mundo digital.
+- 👨‍💻 Si te interesa saber mas sobre mi puedes visitar mi pagina personal: https://dylanyam033.github.io/blogDylan/ 
 - 📝 Durante mis estudios y proyectos, he tenido la oportunidad de trabajar en equipo con otros desarrolladores y aprender de ellos.
 - ⚡ Estoy constantemente en busca de nuevos desafíos y oportunidades de aprendizaje, lo que me permite mejorar y ampliar mis conocimientos en el campo de la tecnología.
 
