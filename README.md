@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Mi nombre es Dylan Yampuezan</h1>
-<h3 align="center">Soy un apasionado por la tecnología y el desarrollo de software, con un fuerte interés en el aprendizaje continuo y el trabajo en equipo.</h3>
+💻 Junior Full Stack Developer  
 
 
 - 📫 Mi correo de contacto es: **yampuezandylan04@gmail.com**
