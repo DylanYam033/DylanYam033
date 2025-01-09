@@ -1,12 +1,13 @@
 <h1 align="center">Hola 👋, Mi nombre es Dylan Yampuezan</h1>
-💻 Junior Full Stack Developer  
 
+💻 Junior Full Stack Developer  
+🌱 **24 años** | 🚀 **2 año y 3 meses de experiencia**
 
 - 📫 Mi correo de contacto es: **yampuezandylan04@gmail.com**
 - 🤝 Considero el trabajo en equipo una herramienta poderosa para aprender y conseguir objetivos en común
-- 🌱 Actualmente estoy aprendiendo desarrollo web del lado del Back-End
+- 🌱 Siempre me encuentro en constante aprendizaje
 - 👨‍💻 Si te interesa saber mas sobre mi puedes visitar mi pagina personal: https://dylanyam033.github.io/blogDylan/ 
-- 📝 Durante mis estudios y proyectos, he tenido la oportunidad de trabajar en equipo con otros desarrolladores y aprender de ellos.
+- 📝 Durante mi carrera profesional, he tenido la oportunidad de trabajar en equipo con otros desarrolladores y aprender de ellos.
 - ⚡ Estoy constantemente en busca de nuevos desafíos y oportunidades de aprendizaje, lo que me permite mejorar y ampliar mis conocimientos en el campo de la tecnología.
 
 
@@ -16,5 +17,7 @@
 <a href="https://stackoverflow.com/users/20037607/dylan03" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20037607/dylan03" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🌟 **Tecnologías que utilizo**
+<div align="center"> <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50" alt="JavaScript"> <img src="https://media0.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50" alt="React"> <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="50" alt="HTML"> <img src="https://media4.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50" alt="Node.js"> <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="50" alt="Unity3D"><img src="https://media0.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50" alt="Unity3D"><img src="https://media1.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50" alt="CSS"><img src="https://media1.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="50" alt="VisualStudio"><img src="https://media4.giphy.com/media/AtGNnASz6qgZcxjGnb/giphy.gif" width="100" alt="Unity3d">  </div>
+
+
