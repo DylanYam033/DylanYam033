@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Mi nombre es Dylan Yampuezan</h1>
 
 💻 Junior Full Stack Developer  
-🌱 **24 años** | 🚀 **2 año y 3 meses de experiencia**
+🌱 **24 años** | 🚀 **2 años y 3 meses de experiencia**
 
 - 📫 Mi correo de contacto es: **yampuezandylan04@gmail.com**
 - 🤝 Considero el trabajo en equipo una herramienta poderosa para aprender y conseguir objetivos en común
